@@ -15,9 +15,11 @@ def hopper
           :languages => ["C"]
         }
      }
-     return programmer_hash grace_hopper:
+     programmer_hash =
 end
-
+hash = {first: "first value!", second: "second value!"}
+ 
+hash[:first]
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
 	
